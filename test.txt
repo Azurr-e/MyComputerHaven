@@ -1,3 +1,5 @@
 MyComputerHaven  test.txt
 Ethan Greis
 My profession will be a professional Computer. I will be faster than the fastest computer.
+Joseph Chang
+My profession will be a professional virus. I will be deadlier than the black death in this modern world.
