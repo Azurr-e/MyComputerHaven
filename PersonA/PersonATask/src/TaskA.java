@@ -6,6 +6,7 @@ public class TaskA {
 	public static void main(String[] args) 
 	{
 		System.out.println( calculateAverage() );
+		// Missing e in average
 	}		
 
 	public static double calculateAverage()
@@ -15,5 +16,7 @@ public class TaskA {
 		int val1 = scan.nextInt();
 		int val2 = scan.nextInt();
 		return (val1 + val2) / 2.0;
+		// o became 0
+		// added parentheses around val1 and val2
 	}
 }
