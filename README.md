@@ -8,7 +8,7 @@ Memes are good because:
 my computer cannot into the internet
 even less than the polan can into space
 
-## How to into anverge
+## How to into average
 - dsnjksdfhsklanlfanjs
 - The program is called
 - ### Avnerge
